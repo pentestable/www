@@ -1,3 +1,3 @@
 # www
 
-Look at [ScalableSpace](https://scalablespace.net) and [ScalableSpace](https://scalechamp.com)
+Look at [ScalableSpace](https://scalablespace.net) and [ScaleChamp](https://scalechamp.com)
